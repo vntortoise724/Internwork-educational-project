@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "Y\u1EBFu t\u1ED1 l\u1EDBn nh\u1EA5t g\xE2y ra \xF4 nhi\u1EC5m \u1EDF th\xE0nh
+    th\u1ECB l\xE0 g\xEC "
+  m_EditorClassIdentifier: 
+  question: "Y\u1EBFu t\u1ED1 l\u1EDBn nh\u1EA5t g\xE2y ra \xF4 nhi\u1EC5m \u1EDF
+    th\xE0nh th\u1ECB l\xE0 g\xEC ?"
+  level: "Kh\xF3"
+  answer:
+  - "L\u01B0\u1EE3ng xe l\u1EDBn g\xE2y \u1ED3n v\xE0 \xF4 nhi\u1EC5m kh\xF4ng kh\xED"
+  - "Ngu\u1ED3n n\u01B0\u1EDBc b\u1ECB \xF4 nhi\u1EC5m"
+  - "Kh\xF4ng c\xF3 c\xE2y xanh"
+  - "R\xE1c th\u1EA3i v\xE0 c\u1ED1ng x\xE3"

@@ -1,0 +1,15 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+[System.Serializable]
+public class ResponseEvent : MonoBehaviour
+{
+    [HideInInspector]
+    //public string name;
+    [SerializeField]
+    private UnityEvent onPickedOption;
+    
+    public UnityEvent OnPickedOption => onPickedOption;
+}

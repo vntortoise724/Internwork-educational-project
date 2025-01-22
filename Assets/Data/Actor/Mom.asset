@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4fbdf2d8860ed65418ff61b583235a34, type: 3}
+  m_Name: Mom
+  m_EditorClassIdentifier: 
+  actorName: "M\u1EB9"
+  actorPoitrait: {fileID: -1540289718, guid: 0a0ba7a0ffd94844cbba3ef9281bc0b7, type: 3}
+  defaultEmo: Default
+  emotionList:
+  - emotion: Default
+    sprite: {fileID: -1540289718, guid: 0a0ba7a0ffd94844cbba3ef9281bc0b7, type: 3}
+  - emotion: Happy
+    sprite: {fileID: -490301756, guid: 0a0ba7a0ffd94844cbba3ef9281bc0b7, type: 3}
+  - emotion: Upset
+    sprite: {fileID: 697809534, guid: 0a0ba7a0ffd94844cbba3ef9281bc0b7, type: 3}

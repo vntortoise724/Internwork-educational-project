@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765bfefb6ed2a3d4589e7b093f036c7b, type: 3}
+  m_Name: Yes
+  m_EditorClassIdentifier: 
+  actors: 0200000003000000
+  dialogue:
+  - "D\u1EA1, \u0111\xE3 chu\u1EA9n b\u1ECB s\u1EB3n s\xE0ng r \u1EA1"
+  - "T\u1ED1t, ra ngo\xE0i ch\u1EDD m\u1EB9 t\xED nh\xE9. M\u1EB9 s\u1EBD ch\u1EDF
+    con \u0111\u1EBFn tr\u01B0\u1EDDng"
+  emotions:
+  - Happy
+  - Happy
+  randActor: 
+  randActorPoit: {fileID: 0}
+  dialogueOption: []
+  optionA: {fileID: 0}
+  optionB: {fileID: 0}
+  optionC: {fileID: 0}
+  optionD: {fileID: 0}
+  isEndDialogue: 0
+  isEventTrigger: 0
+  isEndEventTrigger: 0
+  eventName: 

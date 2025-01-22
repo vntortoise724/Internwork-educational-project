@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765bfefb6ed2a3d4589e7b093f036c7b, type: 3}
+  m_Name: StartEnglish
+  m_EditorClassIdentifier: 
+  actors: 0200000008000000
+  dialogue:
+  - "B\u1EAFt \u0111\u1EA7u l\xE0m b\xE0i ch\u1EE9 ?"
+  emotions:
+  - Thinking
+  randActor: 
+  randActorPoit: {fileID: 0}
+  dialogueOption:
+  - "Ch\u1EDD t\xED \u0111\xE3 "
+  - "T\u1ED1i l\xE0m c\u0169ng k mu\u1ED9n"
+  - "B\u1EAFt \u0111\u1EA7u th\xF4i"
+  - "Ch\u1EAFc kh\xF4ng c\u1EA7n l\xE0m \u0111\xE2u nh\u1EC9 !!"
+  optionA: {fileID: 11400000, guid: 6b6a89ef00e2d9b498699bf351955108, type: 2}
+  optionB: {fileID: 11400000, guid: 86fbe11ade755664c84b348216145278, type: 2}
+  optionC: {fileID: 11400000, guid: b728f5cba50497f4fb012b677f49a28b, type: 2}
+  optionD: {fileID: 11400000, guid: c7dac94a8e4fc5c40812c3798d7a24db, type: 2}
+  isEndDialogue: 0
+  isEventTrigger: 0
+  isEndEventTrigger: 0
+  eventName: 

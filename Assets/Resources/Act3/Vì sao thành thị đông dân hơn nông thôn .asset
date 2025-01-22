@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "V\xEC sao th\xE0nh th\u1ECB \u0111\xF4ng d\xE2n h\u01A1n n\xF4ng th\xF4n "
+  m_EditorClassIdentifier: 
+  question: "V\xEC sao th\xE0nh th\u1ECB \u0111\xF4ng d\xE2n h\u01A1n n\xF4ng th\xF4n
+    ?"
+  level: "Kh\xF3"
+  answer:
+  - "V\xEC c\u01A1 s\u1EDF v\u1EADt ch\u1EA5t t\u1ED1t h\u01A1n v\xE0 d\u1EC5 ph\xE1t
+    tri\u1EC3n kinh t\u1EBF h\u01A1n"
+  - "V\xEC th\xE0nh th\u1ECB l\u1EDBn h\u01A1n n\xF4ng th\xF4n"
+  - "V\xEC th\xE0nh th\u1ECB t\u1ED3n t\u1EA1i l\xE2u h\u01A1n n\xF4ng th\xF4n "
+  - "V\xEC th\xE0nh th\u1ECB \xEDt c\xE2y h\u01A1n n\xF4ng th\xF4n "

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765bfefb6ed2a3d4589e7b093f036c7b, type: 3}
+  m_Name: Testing
+  m_EditorClassIdentifier: 
+  actors: 020000000300000008000000
+  dialogue:
+  - "Th\u01B0a m\u1EB9 \u1EA1 !!"
+  - "Bu\u1ED5i s\xE1ng vui v\u1EBB, con y\xEAu. Chu\u1EA9n b\u1ECB \u0111\u1EBFn
+    tr\u01B0\u1EDDng ch\u01B0a ?"
+  emotions:
+  - Default
+  - Happy
+  randActor: 
+  randActorPoit: {fileID: 0}
+  dialogueOption:
+  - "Ch\u01B0a \u1EA1"
+  - "Con b\u1EC7nh r\u1ED3i \u1EA1 "
+  - "R\u1ED3i \u1EA1"
+  - "Con kh\xF4ng mu\u1ED1n \u0111\u1EBFn tr\u01B0\u1EDDng \u0111\xE2u!!!"
+  optionA: {fileID: 11400000, guid: a21c3c0f82bcb0444a2cdedf89ce09fe, type: 2}
+  optionB: {fileID: 11400000, guid: c423c16aa149cf242b2cff457cd6c9d3, type: 2}
+  optionC: {fileID: 11400000, guid: b9fc6ec423036b44daf2e1f6385c2a89, type: 2}
+  optionD: {fileID: 11400000, guid: 84be336b1be50944cad5b1d1d0338472, type: 2}
+  isEndDialogue: 0
+  isEventTrigger: 0
+  isEndEventTrigger: 0
+  eventName: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "S\xF4ng l\u1EDBn n\xE0o \u1EDF mi\u1EC1n B\u1EAFc Vi\u1EC7t Nam c\xF3
+    h\u01B0\u1EDBng d\xF2ng ch\u1EA3y kh\xE1c v\u1EDBi c\xE1c s\xF4ng l\u1EDBn c\xF2n
+    l\u1EA1i"
+  m_EditorClassIdentifier: 
+  question: "S\xF4ng l\u1EDBn n\xE0o \u1EDF mi\u1EC1n B\u1EAFc Vi\u1EC7t Nam c\xF3
+    h\u01B0\u1EDBng d\xF2ng ch\u1EA3y kh\xE1c v\u1EDBi c\xE1c s\xF4ng l\u1EDBn c\xF2n
+    l\u1EA1i"
+  level: "Trung b\xECnh"
+  answer:
+  - "S\xF4ng \u0110\xE0 "
+  - "S\xF4ng H\u1ED3ng"
+  - "S\xF4ng M\xE3"
+  - "S\xF4ng L\xF4"

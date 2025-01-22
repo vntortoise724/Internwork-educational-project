@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "Lo\xE0i \u0111\u1ED9ng v\u1EADt c\xF3 v\xFA n\xE0o l\u1EDBn nh\u1EA5t
+    \u0111\u1ECBa c\u1EA7u "
+  m_EditorClassIdentifier: 
+  question: "Lo\xE0i \u0111\u1ED9ng v\u1EADt c\xF3 v\xFA n\xE0o l\u1EDBn nh\u1EA5t
+    \u0111\u1ECBa c\u1EA7u ? "
+  level: "Trung b\xECnh"
+  answer:
+  - "C\xE1 Nh\xE0 T\xE1ng - C\xE1 Voi"
+  - Voi
+  - "T\xEA Gi\xE1c"
+  - "C\xE1 M\u1EADp Tr\u1EAFng"

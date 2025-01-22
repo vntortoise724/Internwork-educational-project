@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "V\xEC sao c\xF3 hi\u1EC7n t\u01B0\u1EE3ng ng\u1EADp l\u1EE5t \u1EDF \u0111\u01B0\u1EDDng
+    x\xE1 th\xE0nh th\u1ECB "
+  m_EditorClassIdentifier: 
+  question: "V\xEC sao c\xF3 hi\u1EC7n t\u01B0\u1EE3ng ng\u1EADp l\u1EE5t \u1EDF
+    \u0111\u01B0\u1EDDng x\xE1 th\xE0nh th\u1ECB ?"
+  level: "Kh\xF3"
+  answer:
+  - "Do m\u01B0a v\xE0 th\u1EE7y tri\u1EC1u"
+  - "Do l\u01B0\u1EE3ng xe \u0111\xF4ng"
+  - "Do l\xE3ng ph\xED n\u01B0\u1EDBc "
+  - "Do kh\xF4ng \u0111\u1EE7 c\xE2y"

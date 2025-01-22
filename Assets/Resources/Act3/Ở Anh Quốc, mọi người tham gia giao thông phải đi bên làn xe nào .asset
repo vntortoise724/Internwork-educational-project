@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "\u1EDE Anh Qu\u1ED1c, m\u1ECDi ng\u01B0\u1EDDi tham gia giao th\xF4ng
+    ph\u1EA3i \u0111i b\xEAn l\xE0n xe n\xE0o "
+  m_EditorClassIdentifier: 
+  question: "\u1EDE Anh Qu\u1ED1c, m\u1ECDi ng\u01B0\u1EDDi tham gia giao th\xF4ng
+    ph\u1EA3i \u0111i b\xEAn l\xE0n xe n\xE0o ?"
+  level: "Kh\xF3"
+  answer:
+  - "L\xE0n b\xEAn tr\xE1i"
+  - "L\xE0n b\xEAn ph\u1EA3i"
+  - "C\u1EA3 hai l\xE0n"
+  - "L\xE0n n\xE0o t\xF9y \xFD"

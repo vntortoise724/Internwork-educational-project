@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765bfefb6ed2a3d4589e7b093f036c7b, type: 3}
+  m_Name: MinigameStart
+  m_EditorClassIdentifier: 
+  actors: 02000000010000000100000002000000010000000200000008000000
+  dialogue:
+  - "Ch\xE0o L\u1EADp !!"
+  - ...
+  - "\xC0 ch\xE0o b\u1EA1n."
+  - "B\u1EA1n \u0111ang l\xE0m g\xEC th\xEA ?"
+  - "M\xECnh \u0111ang b\u1EADn gi\u1EA3i quy\u1EBFt c\xE1i tr\xF2 tr\u01B0\u1EE3t
+    h\xECnh n\xE0y, th\u1EADt kh\xF3 ch\u1ECBu m\xECnh \u0111\u1EE9ng \u0111\xE2y
+    t\u1EEB s\xE1ng \u0111\u1EBFn gi\u1EDD v\u1EABn ch\u01B0a th\u1EC3 ho\xE0n thi\u1EC7n
+    \u0111\u01B0\u1EE3c n\xF3 "
+  - ...
+  emotions:
+  - Happy
+  - Default
+  - Sus
+  - Default
+  - Default
+  - Curious
+  randActor: 
+  randActorPoit: {fileID: 0}
+  dialogueOption:
+  - "Ch\xFAc b\u1EA1n may m\u1EAFn"
+  - "S\u1EAFp v\xE0o h\u1ECDc r\u1ED3i \u0111\u1EA5y !!"
+  - "B\u1EA1n mu\u1ED1n m\xECnh gi\xFAp kh\xF4ng ?"
+  - "Tr\xF4ng kh\xF3 \u0111\u1EA5y !!"
+  optionA: {fileID: 11400000, guid: 1f46633757453764c966c0d4ede98e5b, type: 2}
+  optionB: {fileID: 11400000, guid: 4d8ac239c0b9ee0478efd3c5a0f0d70a, type: 2}
+  optionC: {fileID: 11400000, guid: fa50f918ec2142d4caa91fd08b3b961b, type: 2}
+  optionD: {fileID: 11400000, guid: cfb3aada17ecd234fb684b4b83a874f4, type: 2}
+  isEndDialogue: 0
+  isEventTrigger: 0
+  isEndEventTrigger: 0
+  eventName: 

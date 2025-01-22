@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "Xe n\xE0o v\u1EABn \u0111\u01B0\u1EE3c \u0111i khi \u0111\xE8n \u0111\u1ECF"
+  m_EditorClassIdentifier: 
+  question: "Xe n\xE0o v\u1EABn \u0111\u01B0\u1EE3c \u0111i khi \u0111\xE8n \u0111\u1ECF"
+  level: "Kh\xF3"
+  answer:
+  - "Xe \u01B0u ti\xEAn v\xE0 xe \u0111\u01B0\u1EE3c ph\xE9p r\u1EBD ph\u1EA3i"
+  - "Xe \u01B0u ti\xEAn v\xE0 xe \u0111\u01B0\u1EE3c ph\xE9p r\u1EBD tr\xE1i"
+  - "Xe c\xF4ng c\u1ED9ng v\xE0 xe \u0111i\u1EC7n "
+  - "Xe \u0111\u1EA1p v\xE0 xe \u0111\u01B0\u1EE3c ph\xE9p r\u1EBD ph\u1EA3i"

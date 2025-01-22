@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "Con ng\u01B0\u1EDDi h\xEDt v\xE0o kh\xED Oxy v\xE0 th\u1EDF ra kh\xED
+    g\xEC "
+  m_EditorClassIdentifier: 
+  question: "Con ng\u01B0\u1EDDi h\xEDt v\xE0o kh\xED Oxy v\xE0 th\u1EDF ra kh\xED
+    g\xEC ?"
+  level: "Trung b\xECnh"
+  answer:
+  - "Kh\xED Carbon Dioxide (CO2)"
+  - "Kh\xED Hydro Sulfide (H2S) "
+  - "Kh\xED Hydro Cyanide (HCN)"
+  - "Kh\xED  Metan (CH4)"

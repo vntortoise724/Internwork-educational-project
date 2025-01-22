@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "Tr\u1EDDi qu\xE1 n\xF3ng, trong nh\xE0 mu\u1ED1n m\xE1t m\u1EBB ph\u1EA3i
+    s\u1EED d\u1EE5ng v\u1EADt g\xEC "
+  m_EditorClassIdentifier: 
+  question: "Tr\u1EDDi qu\xE1 n\xF3ng, trong nh\xE0 mu\u1ED1n m\xE1t m\u1EBB ph\u1EA3i
+    s\u1EED d\u1EE5ng v\u1EADt g\xEC ?"
+  level: "D\u1EC5"
+  answer:
+  - "C\xE1i qu\u1EA1t m\xE1y"
+  - "B\u1EC3 c\xE1"
+  - "C\xE1i l\xF2 n\u01B0\u1EDBng"
+  - "C\xE1i tivi"

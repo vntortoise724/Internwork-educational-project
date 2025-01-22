@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "Ai l\xE0 ho\xE0ng \u0111\u1EBF \u0111\u1EA7u ti\xEAn c\u1EE7a nh\xE0 T\xE2y
+    S\u01A1n "
+  m_EditorClassIdentifier: 
+  question: "Ai l\xE0 ho\xE0ng \u0111\u1EBF \u0111\u1EA7u ti\xEAn c\u1EE7a nh\xE0
+    T\xE2y S\u01A1n ?"
+  level: "Kh\xF3"
+  answer:
+  - "Nguy\u1EC5n Nh\u1EA1c"
+  - "Nguy\u1EC5n Hu\u1EC7"
+  - "Nguy\u1EC5n \xC1nh"
+  - "Nguy\u1EC5n L\u1EEF"

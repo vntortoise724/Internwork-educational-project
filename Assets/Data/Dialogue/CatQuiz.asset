@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 765bfefb6ed2a3d4589e7b093f036c7b, type: 3}
+  m_Name: CatQuiz
+  m_EditorClassIdentifier: 
+  actors: 000000000200000008000000
+  dialogue:
+  - "\u1ED2 xin ch\xE0o, meow"
+  - ...
+  emotions:
+  - Smulf_A
+  - Shock
+  randActor: 
+  randActorPoit: {fileID: 0}
+  dialogueOption:
+  - "~la l\u1EDBn cho m\xE8o ho\u1EA3ng s\u1EE3~"
+  - "\xD4 b\u1EA1n \u0111\u1ED9i m\u0169 tr\xF4ng th\u1EADt d\u1EC5 th\u01B0\u01A1ng!!"
+  - "B\u1EA1n bi\u1EBFt n\xF3i sao ?!"
+  - Meow!!~
+  optionA: {fileID: 11400000, guid: 7b4ec1e1e61430049ba886fca5636ef7, type: 2}
+  optionB: {fileID: 11400000, guid: ad964e3ec33e60843aee9f7f80e1f07b, type: 2}
+  optionC: {fileID: 11400000, guid: dc0e76294f0a58d449d5c2cc163c8537, type: 2}
+  optionD: {fileID: 11400000, guid: daaff9d67a298de40894fcb9ea0b7cbd, type: 2}
+  isEndDialogue: 0
+  isEventTrigger: 0
+  isEndEventTrigger: 0
+  eventName: 

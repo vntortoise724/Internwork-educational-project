@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: CatQuestEnglish
+  m_EditorClassIdentifier: 
+  question: 'Find the wrong word in this sentence: The cat no longer <color=yellow>has</color>
+    the scholar hat on its head, it looks at me <color=yellow>ambiguous</color> and
+    <color=yellow>speaks</color> to me with the meow sound, <color=yellow>instead</color>
+    of the human sound.'
+  level: English
+  answer:
+  - ambiguous
+  - has
+  - instead of
+  - speaks

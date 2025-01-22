@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f8955727824ec4799d47c0ebdc3a40, type: 3}
+  m_Name: "K\xFD hi\u1EC7u O trong b\u1EA3ng tu\u1EA7n ho\xE0n h\xF3a h\u1ECDc, th\u1EC3
+    hi\u1EC7n cho "
+  m_EditorClassIdentifier: 
+  question: "K\xFD hi\u1EC7u O trong b\u1EA3ng tu\u1EA7n ho\xE0n h\xF3a h\u1ECDc,
+    th\u1EC3 hi\u1EC7n cho ?"
+  level: "Trung b\xECnh"
+  answer:
+  - Oxy
+  - Ozone
+  - Omega
+  - Oto
